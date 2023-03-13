@@ -1,1 +1,1 @@
-Uma tentativa de criar um editor de texto
+Rich text editor
